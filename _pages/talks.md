@@ -19,7 +19,7 @@ author_profile: true
 
    <b> Gibson, S. P. </b> & Shaikshik Chetana Nepal. (2019, February). <i> Enabling access to early childhood education for migrant children in brick factories in Nepal. </i> Poster presented at Universidad Francisco de Vitoria, Madrid, Spain. 
 
-   <b> Gibson, S. P. </b> & Lowe-Brown, K. (2015, October). <i> The validation of a coding system for assessing children's strategies for regulating emotions.</i> Poster presented at the Nuffield Celebration Event Conference, University of Bedfordshire, UK.
+   <b> Gibson, S. P. </b> & Lowe-Brown, K. (2015, October). <i> Assessing the inter-rater reliability of a coding system for categorising children's strategies for regulating emotions.</i> Poster presented at the Nuffield Celebration Event Conference, University of Bedfordshire, UK.
 
 
 {% if site.talkmap_link == true %}
