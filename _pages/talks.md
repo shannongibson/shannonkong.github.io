@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-##Poster presentations: 
+## Poster presentations: 
 ------
 
 ⋅⋅⋅<b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, August). <i> Word-learning heuristics in bilingual infants: The mutual exclusivity bias. </i> Poster to be presented at the 4th Lancaster Conference on Infant and Early Child Development, Lancaster, UK. 
