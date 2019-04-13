@@ -11,49 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Psychology, University of Buckingham, 2019
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2019 - present: Research Associate
+  * School of Built Environment, Oxford Brookes University
+  * Duties included: Conducting a systematic literature review on preparing graduates for interdisciplinary collaboration in the workplace
+  * Supervisor: Dr Esra Kurul
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2019 - present: Project Manager and Junior Researcher
+  * Junior Researcher Programme
+  * Duties included: Research design, literature review, and data collection as part of a 13-month research initiative for early career researchers
+  * Supervisor: Dr Elisa Berdica 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * September 2017 - present: Research Assistant
+  * Oxford Brookes University BabyLab
+  * Duties included: 
+    * Designing, producing and conducting experiments on language acquisition using eye-tracking software
+    * Database management, participant recruitment, and the cleaning, coding and analysis of data 
+  * Supervisor: Dr Nayeli Gonzalez-Gomez
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
