@@ -37,7 +37,7 @@ Research Experience
   * Duties included: Conducting interviews, data analysis and producing a report assessing children's performance in brick factory schools
   
 * July - August 2015: Nuffield Research Placement
-  * UNiversity of Buckingham
+  * University of Buckingham
   * Duties included: Transcribing interviews, scoring Expressive Vocabulary Tests and assessing the inter-rater reliability for an emotion regulation coding system 
   
   
