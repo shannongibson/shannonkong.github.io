@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * BSc in Psychology, University of Buckingham, 2019
 
-Research Experience
+## Research Experience
 ======
 * April 2019 - present: Research Associate
   * School of Built Environment, Oxford Brookes University
@@ -41,7 +41,7 @@ Research Experience
   * Duties included: Transcribing interviews, scoring Expressive Vocabulary Tests and assessing the inter-rater reliability for an emotion regulation coding system 
   
   
-Honours and Awards
+## Honours and Awards
 ======
 
 * Mike Cawthorne Award for the Best Project, University of Buckingham 
@@ -57,7 +57,7 @@ Honours and Awards
 * CREST Gold Award from the British Science Association
 
 
-Skills
+## Skills
 ======
 
 * Software: SPSS, Tobii Pro Studio, Adobe Flash, Qualtrics and SurveyMonkey 
