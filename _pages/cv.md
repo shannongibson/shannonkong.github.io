@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+------
 * BSc in Psychology, University of Buckingham, 2019
 
 ## Research Experience
-======
+------
 * April 2019 - present: Research Associate
   * School of Built Environment, Oxford Brookes University
   * Duties included: Conducting a systematic literature review on preparing graduates for interdisciplinary collaboration in the workplace
@@ -42,7 +42,7 @@ redirect_from:
   
   
 ## Honours and Awards
-======
+------
 
 * Mike Cawthorne Award for the Best Project, University of Buckingham 
 
@@ -58,7 +58,7 @@ redirect_from:
 
 
 ## Skills
-======
+------
 
 * Software: SPSS, Tobii Pro Studio, Adobe Flash, Qualtrics and SurveyMonkey 
 
