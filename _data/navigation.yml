@@ -8,10 +8,6 @@ main:
     url: /talks/  
     
     
-  - title: "Projects"
-    url: /portfolio/   
-    
-    
   - title: "CV"
     url: /cv/
 
