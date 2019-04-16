@@ -60,6 +60,6 @@ redirect_from:
 ## Skills
 ------
 
-* Software: SPSS, Tobii Pro Studio, Adobe Flash, Qualtrics and SurveyMonkey 
+* Software: SPSS, Tobii Pro Studio, Adobe Flash, Adobe Audition, Qualtrics and SurveyMonkey 
 
 * Languages: English (native), Italian (beginner), British Sign Language (beginner), Makaton (beginner)
