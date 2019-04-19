@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 ------
-* BSc in Psychology, University of Buckingham, 2019
+* BSc in Psychology, University of Buckingham, 2019 (First-class honours)
 
 ## Research Experience
 ------
@@ -20,7 +20,7 @@ redirect_from:
   * Duties included: Conducting a systematic literature review on preparing graduates for interdisciplinary collaboration in the workplace
   * Supervisor: Dr Esra Kurul
 
-* July 2019 - present: Project Manager and Junior Researcher
+* July 2018 - present: Project Manager and Junior Researcher
   * Junior Researcher Programme
   * Duties included: Research design, literature review, and data collection as part of a 13-month research initiative for early career researchers
   * Supervisor: Dr Elisa Berdica
@@ -39,6 +39,7 @@ redirect_from:
 * July - August 2015: Nuffield Research Placement
   * University of Buckingham
   * Duties included: Transcribing interviews, scoring Expressive Vocabulary Tests and assessing the inter-rater reliability for an emotion regulation coding system 
+  * Supervisors: Dr Alan Martin and Kirsty Lowe-Brown
   
   
 ## Honours and Awards
@@ -46,7 +47,7 @@ redirect_from:
 
 * Mike Cawthorne Award for the Best Project, University of Buckingham 
 
-* APSSC Travel Grant Award ($400)
+* APSSC Travel Grant Award ($435)
 
 * Commended Entrant at the Global Undergraduate Awards 
 
