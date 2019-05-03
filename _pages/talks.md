@@ -11,9 +11,9 @@ author_profile: true
 
    <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, August). <i> Word-learning heuristics in bilingual infants: The mutual exclusivity bias. </i> Poster to be presented at the 4th Lancaster Conference on Infant and Early Child Development, Lancaster, UK. 
 
-   <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! The importance of language dominance in the mutual exclusivity bias in bilingual infants.</i> Poster to be presented at the 31st APS Annual Convention, Washington D.C., US.
+   <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! The importance of language experience in the mutual exclusivity bias in bilingual infants.</i> Poster to be presented at the 31st APS Annual Convention, Washington D.C., US.
 
-   <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! Exploring the mutual exclusivity bias in monolingual and bilingual infants. </i> Poster to be presented at the British Psychological Society's Annual Conferene, Harrogate, UK. 
+   <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! Exploring the mutual exclusivity bias in monolingual and bilingual infants. </i> Poster presented at the British Psychological Society's Annual Conferene, Harrogate, UK. [link](https://bps2019-bps.ipostersessions.com/default.aspx?s=7E-25-6F-D1-12-24-7D-A1-AE-04-B6-3C-31-60-A6-9C&guestview=true)
 
    Berdica, E., Demić, E., <b> Gibson, S. P., </b> Sakelariev, I., Van Reyn, C., Većkalov, B., & Weinerová, J. (2019, February). <i> The iGeneration: Investigating the relationship between social media use and emotion recognition in adolescents.</i>. Poster presented at Universidad Francisco de Vitoria, Madrid, Spain. 
 
