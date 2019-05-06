@@ -15,7 +15,7 @@ author_profile: true
 
    <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! Exploring the mutual exclusivity bias in monolingual and bilingual infants. </i> Poster presented at the British Psychological Society's Annual Conferene, Harrogate, UK. [[link]](https://bps2019-bps.ipostersessions.com/default.aspx?s=7E-25-6F-D1-12-24-7D-A1-AE-04-B6-3C-31-60-A6-9C&guestview=true)
 
-   <b> Gibson, S. P. </b> & Shaikshik Chetana Nepal. (2019, February). <i> Enabling access to early childhood education for migrant children in brick factories in Nepal. </i> Poster presented at Universidad Francisco de Vitoria, Madrid, Spain.   <a href="shannongibson.github.io/raw/master/Enabling%20Access%20to%20Early%20Childhood%20Education%20for%20Migrant%20Children%20in%20Brick%20Factories%20in%20Nepal.pdf" target="_blank">PDF.</a>
+   <b> Gibson, S. P. </b> & Shaikshik Chetana Nepal. (2019, February). <i> Enabling access to early childhood education for migrant children in brick factories in Nepal. </i> Poster presented at Universidad Francisco de Vitoria, Madrid, Spain. [[pdf]](https://docs.google.com/viewer?url=${https://github.com/shannongibson/shannongibson.github.io/raw/master/Enabling%20Access%20to%20Early%20Childhood%20Education%20for%20Migrant%20Children%20in%20Brick%20Factories%20in%20Nepal.pdf})
    
    Berdica, E., Demić, E., <b> Gibson, S. P., </b> Sakelariev, I., Van Reyn, C., Većkalov, B., & Weinerová, J. (2019, February). <i> The iGeneration: Investigating the relationship between social media use and emotion recognition in adolescents.</i>. Poster presented at Universidad Francisco de Vitoria, Madrid, Spain. 
 
