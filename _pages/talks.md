@@ -13,11 +13,11 @@ author_profile: true
 
    <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! The importance of language experience in the mutual exclusivity bias in bilingual infants.</i> Poster to be presented at the 31st APS Annual Convention, Washington D.C., US.
 
-   <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! Exploring the mutual exclusivity bias in monolingual and bilingual infants. </i> Poster presented at the British Psychological Society's Annual Conferene, Harrogate, UK. [link](https://bps2019-bps.ipostersessions.com/default.aspx?s=7E-25-6F-D1-12-24-7D-A1-AE-04-B6-3C-31-60-A6-9C&guestview=true)
+   <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! Exploring the mutual exclusivity bias in monolingual and bilingual infants. </i> Poster presented at the British Psychological Society's Annual Conferene, Harrogate, UK. [[link]](https://bps2019-bps.ipostersessions.com/default.aspx?s=7E-25-6F-D1-12-24-7D-A1-AE-04-B6-3C-31-60-A6-9C&guestview=true)
 
+   <b> Gibson, S. P. </b> & Shaikshik Chetana Nepal. (2019, February). <i> Enabling access to early childhood education for migrant children in brick factories in Nepal. </i> Poster presented at Universidad Francisco de Vitoria, Madrid, Spain. [[pdf]](Enabling Access to Early Childhood Education for Migrant Children in Brick Factories in Nepal.pdf)
+   
    Berdica, E., Demić, E., <b> Gibson, S. P., </b> Sakelariev, I., Van Reyn, C., Većkalov, B., & Weinerová, J. (2019, February). <i> The iGeneration: Investigating the relationship between social media use and emotion recognition in adolescents.</i>. Poster presented at Universidad Francisco de Vitoria, Madrid, Spain. 
-
-   <b> Gibson, S. P. </b> & Shaikshik Chetana Nepal. (2019, February). <i> Enabling access to early childhood education for migrant children in brick factories in Nepal. </i> Poster presented at Universidad Francisco de Vitoria, Madrid, Spain. 
 
    <b> Gibson, S. P. </b> & Lowe-Brown, K. (2015, October). <i> Assessing the inter-rater reliability of a coding system for categorising children's strategies for regulating emotions.</i> Poster presented at the Nuffield Celebration Event Conference, University of Bedfordshire, UK.
 
