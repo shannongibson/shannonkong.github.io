@@ -19,6 +19,11 @@ redirect_from:
   * School of Built Environment, Oxford Brookes University
   * Duties included: Conducting a systematic literature review on preparing graduates for interdisciplinary collaboration in the workplace
   * Supervisor: Dr Esra Kurul
+  
+* April 2019 - present: Research Assistant
+  * Intelligence and Development Scale (2nd edition; IDS-2) UK Standardisation project, Oxford Brookes University
+  * Duties included: Data entry and administering assessments using the IDS-2 with 4 to 12 year olds
+  * Supervisor: Dr Serena Vanzan
 
 * July 2018 - present: Project Manager and Junior Researcher
   * Junior Researcher Programme
