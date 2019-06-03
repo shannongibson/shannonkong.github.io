@@ -11,9 +11,9 @@ author_profile: true
 
    <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, August). <i> Word-learning heuristics in bilingual infants: The mutual exclusivity bias. </i> Poster to be presented at the 4th Lancaster Conference on Infant and Early Child Development, Lancaster, UK. 
 
-   <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! The importance of language experience in the mutual exclusivity bias in bilingual infants.</i> Poster to be presented at the 31st APS Annual Convention, Washington D.C., US.
+   <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! The importance of language experience in the mutual exclusivity bias in bilingual infants.</i> Poster to be presented at the 31st APS Annual Convention, Washington D.C., US. [[pdf]](https://github.com/shannongibson/shannongibson.github.io/blob/master/APS_mutual_exclusivity_Gibson.pdf)
 
-   <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! Exploring the mutual exclusivity bias in monolingual and bilingual infants. </i> Poster presented at the British Psychological Society's Annual Conferene, Harrogate, UK. [[link]](https://bps2019-bps.ipostersessions.com/default.aspx?s=7E-25-6F-D1-12-24-7D-A1-AE-04-B6-3C-31-60-A6-9C&guestview=true)
+   <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! Exploring the mutual exclusivity bias in monolingual and bilingual infants. </i> Poster presented at the British Psychological Society's Annual Conferene, Harrogate, UK. 
 
    <b> Gibson, S. P. </b> & Shaikshik Chetana Nepal. (2019, February). <i> Enabling access to early childhood education for migrant children in brick factories in Nepal. </i> Poster presented at Universidad Francisco de Vitoria, Madrid, Spain. [[pdf]](https://github.com/shannongibson/shannongibson.github.io/raw/master/Enabling%20Access%20to%20Early%20Childhood%20Education%20for%20Migrant%20Children%20in%20Brick%20Factories%20in%20Nepal.pdf)
    
