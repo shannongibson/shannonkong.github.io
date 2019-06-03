@@ -11,7 +11,7 @@ author_profile: true
 
    <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, August). <i> Word-learning heuristics in bilingual infants: The mutual exclusivity bias. </i> Poster to be presented at the 4th Lancaster Conference on Infant and Early Child Development, Lancaster, UK. 
 
-   <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! The importance of language experience in the mutual exclusivity bias in bilingual infants.</i> Poster to be presented at the 31st APS Annual Convention, Washington D.C., US. [[pdf]](https://github.com/shannongibson/shannongibson.github.io/blob/master/APS_mutual_exclusivity_Gibson.pdf)
+   <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! The importance of language experience in the mutual exclusivity bias in bilingual infants.</i> Poster to be presented at the 31st APS Annual Convention, Washington D.C., US. [[pdf]](https://github.com/shannongibson/shannongibson.github.io/raw/master/APS_mutual_exclusivity_Gibson.pdf)
 
    <b> Gibson, S. P. </b> & Gonzalez-Gomez, N. (2019, May). <i> Book, Libro, Dax! Exploring the mutual exclusivity bias in monolingual and bilingual infants. </i> Poster presented at the British Psychological Society's Annual Conferene, Harrogate, UK. 
 
