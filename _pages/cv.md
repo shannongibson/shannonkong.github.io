@@ -15,6 +15,10 @@ redirect_from:
 
 ## Research Experience
 ------
+* July 2019 - present: Research Intern
+  * Policy Research Group, University of Cambridge
+  * Supervisor: Dr Kai Ruggeri
+
 * April 2019 - present: Research Associate
   * School of Built Environment, Oxford Brookes University
   * Duties included: Conducting a systematic literature review on preparing graduates for interdisciplinary collaboration in the workplace
