@@ -15,9 +15,6 @@ redirect_from:
 
 ## Research Experience
 ------
-* July 2019 - present: Research Intern
-  * Policy Research Group, University of Cambridge
-  * Supervisor: Dr Kai Ruggeri
 
 * April 2019 - present: Research Associate
   * School of Built Environment, Oxford Brookes University
@@ -28,11 +25,6 @@ redirect_from:
   * Intelligence and Development Scale (2nd edition; IDS-2) UK Standardisation project, Oxford Brookes University
   * Duties included: Data entry and administering assessments using the IDS-2 with 4 to 12 year olds
   * Supervisor: Dr Serena Vanzan
-
-* July 2018 - present: Project Manager and Junior Researcher
-  * Junior Researcher Programme
-  * Duties included: Research design, literature review, and data collection as part of a 13-month research initiative for early career researchers
-  * Supervisor: Dr Elisa Berdica
   
 * September 2017 - present: Research Assistant
   * Oxford Brookes University BabyLab
@@ -40,6 +32,15 @@ redirect_from:
     * Designing, producing and conducting experiments on language acquisition using eye-tracking software
     * Database management, participant recruitment, and the cleaning, coding and analysis of data 
   * Supervisor: Dr Nayeli Gonzalez-Gomez
+
+* July 2018 - present: Project Manager and Junior Researcher
+  * Junior Researcher Programme
+  * Duties included: Research design, literature review, and data collection as part of a 13-month research initiative for early career researchers
+  * Supervisor: Dr Elisa Berdica
+  
+* July 2019 - August 2019: Research Intern
+  * Policy Research Group, University of Cambridge
+  * Supervisor: Dr Kai Ruggeri
   
 * January 2019: Research Assistant
   * Street Child of Nepal
@@ -70,6 +71,6 @@ redirect_from:
 ## Skills
 ------
 
-* Software: SPSS, Tobii Pro Studio, Adobe Flash, Adobe Audition, Qualtrics and SurveyMonkey 
+* Software: SPSS, R, Tobii Pro Studio, Adobe Flash, Adobe Audition, Prolific, Qualtrics and SurveyMonkey 
 
 * Languages: English (native), Italian (beginner), British Sign Language (beginner), Makaton (beginner)
