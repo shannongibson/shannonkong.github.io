@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://shannongibson.github.io/Shannon Gibson CV.pdf" type="application/pdf" />
+<embed src="https://shannongibson.github.io/Shannon_Gibson_CV.pdf" type="application/pdf" />
