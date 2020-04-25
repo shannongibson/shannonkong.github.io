@@ -19,7 +19,7 @@ author_profile: true
 
    <b> Gibson, S. P. </b> & Shaikshik Chetana Nepal. (2019, February). <i> Enabling access to early childhood education for migrant children in brick factories in Nepal. </i> Poster presented at Universidad Francisco de Vitoria, Madrid, Spain. [[pdf]](https://github.com/shannongibson/shannongibson.github.io/raw/master/Enabling%20Access%20to%20Early%20Childhood%20Education%20for%20Migrant%20Children%20in%20Brick%20Factories%20in%20Nepal.pdf)
    
-   ## Talks: 
+## Talks: 
 ------
    
    Berdica, E., Demić, E., <b> Gibson, S. P. </b>, Sakelariev, I., Van Reyn, C., Većkalov, B., & Weinerová, J. (2019, August). <i> The grass is greener on other profiles: Social comparison and the relationship between social media use and self-esteem. </i> Work-inprogress presentation at the Junior Researcher Programme Conference, University of Cambridge, UK.
