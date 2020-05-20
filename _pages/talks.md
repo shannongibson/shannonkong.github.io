@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
@@ -9,7 +8,7 @@ author_profile: true
 ------
 
   Ruggeri, K., Alí, S., Berge, M. L., Bertoldo, G., Cortijos-Bernabeu, A., Bjørndal, L. D., … <b> Gibson, S. P. </b> … Folke, T. (2020). Replicating patterns of Prospect Theory for decision under risk. <i> Nature Human Behaviour. </i> doi: [10.1038/s41562-020-0886-x](https://www.nature.com/articles/s41562-020-0886-x)
- [[Preprint]](https://osf.io/2nyd6/) [[Full access]](https://rdcu.be/b4fgQ) [[Data]](https://osf.io/esxc4/)
+ [[Preprint]](https://osf.io/2nyd6/) [[Full access]](https://rdcu.be/b4fgQ) [[Open materials]](https://osf.io/esxc4/)
   
 
 ## Poster presentations: 
