@@ -1,5 +1,6 @@
 ---
 layout: archive
+Title: 'Publications & Presentations'
 permalink: /talks/
 author_profile: true
 ---
