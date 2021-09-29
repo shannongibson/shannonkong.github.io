@@ -7,7 +7,6 @@ author_profile: true
 
 ## Peer-reviewed Publications: 
 ------
-
   Davies, C., Hendry, A, <b> Gibson, S. P. </b>, Gliga, T., McGillion, M., & Gonzalez-Gomez, N. (2021). Early Childhood Education and Care (ECEC) during COVID-19 boosts growth in language and executive function. <i> Infant and Child Development. </i> doi: [10.1002/icd.2241](https://onlinelibrary.wiley.com/doi/10.1002/icd.2241)
  [[Preprint]](https://psyarxiv.com/74gkz/) [[Full access]](https://onlinelibrary.wiley.com/doi/10.1002/icd.2241) [[Infographic]](https://babylab.brookes.ac.uk/research/social-distancing-and-development/findings)
  
