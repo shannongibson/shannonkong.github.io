@@ -5,12 +5,18 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Publications: 
+## Peer-reviewed Publications: 
 ------
 
-  Ruggeri, K., Alí, S., Berge, M. L., Bertoldo, G., Cortijos-Bernabeu, A., Bjørndal, L. D., … <b> Gibson, S. P. </b> … Folke, T. (2020). Replicating patterns of Prospect Theory for decision under risk. <i> Nature Human Behaviour. </i> doi: [10.1038/s41562-020-0886-x](https://www.nature.com/articles/s41562-020-0886-x)
+  Davies, C., Hendry, A, <b> Gibson, S. P. </b>, Gliga, T., McGillion, M., & Gonzalez-Gomez, N. (2021). Early Childhood Education and Care (ECEC) during COVID-19 boosts growth in language and executive function. <i> Infant and Child Development. </i> doi: [10.1002/icd.2241](https://onlinelibrary.wiley.com/doi/10.1002/icd.2241)
+ [[Preprint]](https://psyarxiv.com/74gkz/) [[Full access]](https://onlinelibrary.wiley.com/doi/10.1002/icd.2241) [[Infographic]](https://babylab.brookes.ac.uk/research/social-distancing-and-development/findings)
+ 
+   Ruggeri, K., Alí, S., Berge, M. L., Bertoldo, G., Cortijos-Bernabeu, A., Bjørndal, L. D., … <b> Gibson, S. P. </b> … Folke, T. (2020). Replicating patterns of Prospect Theory for decision under risk. <i> Nature Human Behaviour. </i> doi: [10.1038/s41562-020-0886-x](https://www.nature.com/articles/s41562-020-0886-x)
  [[Preprint]](https://osf.io/2nyd6/) [[Full access]](https://rdcu.be/b4fgQ) [[Open materials]](https://osf.io/esxc4/)
-  
+ 
+ ## Book chapter 
+------
+  Robinson, C. D., Andersen, T. L., Davison, C., Demić, E., Evans, H., Fontinha Mascarenhas, M., <b> Gibson, S. P. </b>, … Ruggeri, K. (in press.) Education and behaviour. In K. Ruggeri (Eds.), <i> Behavioral economics and psychology: Applications for public policy. </i> (pp. 130-156). Taylor & Francis. doi: [10.4324/9781003181873](https://www.taylorfrancis.com/books/edit/10.4324/9781003181873/psychology-behavioral-economics-kai-ruggeri)
 
 ## Poster presentations: 
 ------
