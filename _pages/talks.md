@@ -16,7 +16,7 @@ author_profile: true
  
  ## Book chapter 
 ------
-  Robinson, C. D., Andersen, T. L., Davison, C., Demić, E., Evans, H., Fontinha Mascarenhas, M., <b> Gibson, S. P. </b>, … Ruggeri, K. (in press.) Education and behaviour. In K. Ruggeri (Eds.), <i> Behavioral economics and psychology: Applications for public policy. </i> (pp. 130-156). Taylor & Francis. doi: [10.4324/9781003181873](https://www.taylorfrancis.com/books/edit/10.4324/9781003181873/psychology-behavioral-economics-kai-ruggeri)
+  Robinson, C. D., Andersen, T. L., Davison, C., Demić, E., Evans, H., Fontinha Mascarenhas, M., <b> Gibson, S. P. </b>, … Ruggeri, K. (2021) Education and behaviour. In K. Ruggeri (Eds.), <i> Behavioral economics and psychology: Applications for public policy. </i> (pp. 130-156). Taylor & Francis. doi: [10.4324/9781003181873](https://www.taylorfrancis.com/books/edit/10.4324/9781003181873/psychology-behavioral-economics-kai-ruggeri)
 
 ## Poster presentations: 
 ------
