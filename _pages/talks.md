@@ -14,7 +14,7 @@ author_profile: true
    Ruggeri, K., Alí, S., Berge, M. L., Bertoldo, G., Cortijos-Bernabeu, A., Bjørndal, L. D., … <b> Gibson, S. P. </b> … Folke, T. (2020). Replicating patterns of Prospect Theory for decision under risk. <i> Nature Human Behaviour. </i> doi: [10.1038/s41562-020-0886-x](https://www.nature.com/articles/s41562-020-0886-x)
  [[Preprint]](https://osf.io/2nyd6/) [[Full access]](https://rdcu.be/b4fgQ) [[Open materials]](https://osf.io/esxc4/)
  
- ## Book chapter 
+## Book chapter 
 ------
   Robinson, C. D., Andersen, T. L., Davison, C., Demić, E., Evans, H., Fontinha Mascarenhas, M., <b> Gibson, S. P. </b>, … Ruggeri, K. (2021) Education and behaviour. In K. Ruggeri (Eds.), <i> Behavioral economics and psychology: Applications for public policy. </i> (pp. 130-156). Taylor & Francis. doi: [10.4324/9781003181873](https://www.taylorfrancis.com/books/edit/10.4324/9781003181873/psychology-behavioral-economics-kai-ruggeri)
 
