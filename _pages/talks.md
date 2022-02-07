@@ -9,6 +9,12 @@ author_profile: true
 ------
 ## Peer-reviewed Publications: 
 ------
+  Hendry, A., <b>Gibson, S. P.</b>, Davies, C., Gliga, T., McGillion, M., & Gonzalez‐Gomez, N. (2022). Not all babies are in the same boat: Exploring the effects of socioeconomic status, parental attitudes, and activities during the 2020 COVID‐19 pandemic on early Executive Functions. <i>Infancy.</i> doi:[10.1111/infa.12460](https://doi.org/10.1111/infa.12460) [[Full access]](https://onlinelibrary.wiley.com/doi/full/10.1111/infa.12460) [[Infographic]](https://babylab.brookes.ac.uk/research/social-distancing-and-development/findings/ses-ef-page)
+
+  Kartushina, N., Mani, N., Aktan-Erciyes, A. S. L. I., Alaslani, K., Aldrich, N. J., Almohammadi, A., <b> Gibson, S. P. </b>, ... & Mayor, J.COVID-19 first lockdown as a window into language acquisition: associations between caregiver-child activities and vocabulary gains. <i>Language Development Research, 2</i>(1), 1-36. doi: [10.34842/abym-xv34](https://lps.library.cmu.edu/LDR/article/id/518/) [[Full access]](https://lps.library.cmu.edu/LDR/article/518/galley/454/view/) [[Open materials]](https://osf.io/ty9mn/)  [[Infographic]](https://babylab.brookes.ac.uk/research/social-distancing-and-development/findings/global-project)
+ 
+  Bergmann, C., Dimitrova, N., Alaslani, K., Almohammadi, A., Alroqi, H., Aussems, S., <b> Gibson, S. P. </b>, ... & Mani, N. (2022). Young children's screen time during the first COVID-19 lockdown in 12 countries. <i>Scientific Reports.</i> doi: [10.1038/s41598-022-05840-5](https://doi.org/10.1038/s41598-022-05840-5) [[Full access]](https://rdcu.be/cGwaB) [[Open materials]](https://osf.io/4h7sw/) [[Infographic]](https://babylab.brookes.ac.uk/research/social-distancing-and-development/findings/global-project)
+  
   Davies, C., Hendry, A, <b> Gibson, S. P. </b>, Gliga, T., McGillion, M., & Gonzalez-Gomez, N. (2021). Early Childhood Education and Care (ECEC) during COVID-19 boosts growth in language and executive function. <i> Infant and Child Development. </i> doi: [10.1002/icd.2241](https://onlinelibrary.wiley.com/doi/10.1002/icd.2241)
  [[Preprint]](https://psyarxiv.com/74gkz/) [[Full access]](https://onlinelibrary.wiley.com/doi/10.1002/icd.2241) [[Infographic]](https://babylab.brookes.ac.uk/research/social-distancing-and-development/findings)
  
