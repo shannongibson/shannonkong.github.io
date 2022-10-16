@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Shannon P. Gibson"
+title                    : "Shannon P. Kong"
 title_separator          : "-"
-name                     : &name "Shannon P. Gibson"
+name                     : &name "Shannon P. Kong"
 description              : &description "personal description"
-url                      : https://shannongibson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shannonkong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shannongibson/shannongibson.github.io"
+repository               : "shannongibson/shannonkong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shannon P. Gibson"
+  name             : "Shannon P. Kong"
   avatar           : "Profile picture (2).jpg"
   bio              : "PhD Student at Oxford Brookes University"
   location         : "Oxford, UK"
